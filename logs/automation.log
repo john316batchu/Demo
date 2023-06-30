@@ -1,0 +1,137 @@
+13:13:12.448 [main] INFO  testBase.BaseClass - Loading data from config.properties file
+13:13:14.118 [main] INFO  testBase.BaseClass - Launching browser
+13:15:16.365 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+13:15:16.439 [main] INFO  testBase.BaseClass - Loading data from config.properties file
+13:15:22.545 [main] INFO  testBase.BaseClass - New User registration
+13:15:22.546 [main] INFO  testBase.BaseClass - Entering user details
+13:15:22.577 [main] INFO  testBase.BaseClass - Loading data from config.properties file
+13:15:25.153 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:15:25.190 [main] INFO  testBase.BaseClass - Closing browser
+13:17:32.168 [main] INFO  testBase.BaseClass - Launching browser
+13:18:38.397 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+13:18:42.891 [main] INFO  testBase.BaseClass - New User registration
+13:18:42.891 [main] INFO  testBase.BaseClass - Entering user details
+13:18:45.896 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:18:45.961 [main] INFO  testBase.BaseClass - Closing browser
+16:40:59.826 [main] INFO  testBase.BaseClass - Launching browser
+16:42:28.679 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+16:42:41.173 [main] INFO  testBase.BaseClass - New User registration
+16:42:41.173 [main] INFO  testBase.BaseClass - Entering user details
+16:42:46.859 [main] INFO  testBase.BaseClass - Clicking on Continue button
+16:42:46.929 [main] INFO  testBase.BaseClass - Closing browser
+19:28:05.112 [main] INFO  testBase.BaseClass - Launching browser
+19:29:41.323 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+19:29:43.384 [main] INFO  testBase.BaseClass - New User registration
+19:29:43.384 [main] INFO  testBase.BaseClass - Entering user details
+19:29:44.557 [main] INFO  testBase.BaseClass - Clicking on Continue button
+19:29:45.270 [main] INFO  testBase.BaseClass - Validating New user Registration
+19:29:55.548 [main] INFO  testBase.BaseClass - Closing browser
+19:32:08.455 [main] INFO  testBase.BaseClass - Launching browser
+19:33:39.450 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+19:33:41.605 [main] INFO  testBase.BaseClass - New User registration
+19:33:41.606 [main] INFO  testBase.BaseClass - Entering user details
+19:33:42.781 [main] INFO  testBase.BaseClass - Clicking on Continue button
+19:33:42.819 [main] INFO  testBase.BaseClass - Closing browser
+19:58:50.423 [main] INFO  testBase.BaseClass - Launching browser
+19:59:28.732 [main] INFO  testBase.BaseClass - Closing browser
+20:01:38.618 [main] INFO  testBase.BaseClass - Launching browser
+20:02:07.411 [main] INFO  testBase.BaseClass - Closing browser
+20:05:47.331 [main] INFO  testBase.BaseClass - Launching browser
+20:06:25.876 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+20:06:26.080 [main] INFO  testBase.BaseClass - Clicking on Login link
+20:06:26.717 [main] INFO  testBase.BaseClass - Entering email address
+20:06:26.934 [main] INFO  testBase.BaseClass - Entering password
+20:06:27.071 [main] INFO  testBase.BaseClass - Clicking on login button
+20:06:27.177 [main] INFO  testBase.BaseClass - Validating title after login
+20:06:27.345 [main] INFO  testBase.BaseClass - Closing browser
+20:17:24.035 [main] INFO  testBase.BaseClass - Launching browser
+20:18:10.518 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+20:18:11.565 [main] INFO  testBase.BaseClass - Clicking on Login link
+20:18:12.735 [main] INFO  testBase.BaseClass - Entering email address
+20:18:15.569 [main] INFO  testBase.BaseClass - Entering password
+20:18:15.809 [main] INFO  testBase.BaseClass - Clicking on login button
+20:18:16.289 [main] INFO  testBase.BaseClass - Validating title after login
+20:18:21.470 [main] INFO  testBase.BaseClass - Closing browser
+20:21:01.371 [main] INFO  testBase.BaseClass - Launching browser
+20:21:59.265 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+20:22:01.927 [main] INFO  testBase.BaseClass - New User registration
+20:22:01.928 [main] INFO  testBase.BaseClass - Entering user details
+20:22:03.817 [main] INFO  testBase.BaseClass - Clicking on Continue button
+20:22:03.967 [main] INFO  testBase.BaseClass - Closing browser
+20:22:03.982 [main] INFO  testBase.BaseClass - Launching browser
+20:23:25.184 [main] INFO  testBase.BaseClass - Launching browser
+20:23:47.792 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+20:23:49.114 [main] INFO  testBase.BaseClass - New User registration
+20:23:49.114 [main] INFO  testBase.BaseClass - Entering user details
+20:23:49.756 [main] INFO  testBase.BaseClass - Clicking on Continue button
+20:23:50.655 [main] INFO  testBase.BaseClass - Validating New user Registration
+20:24:01.554 [main] INFO  testBase.BaseClass - Closing browser
+20:24:01.965 [main] INFO  testBase.BaseClass - Launching browser
+20:24:12.201 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+20:24:12.511 [main] INFO  testBase.BaseClass - Clicking on Login link
+20:24:13.130 [main] INFO  testBase.BaseClass - Entering email address
+20:24:13.392 [main] INFO  testBase.BaseClass - Entering password
+20:24:13.561 [main] INFO  testBase.BaseClass - Clicking on login button
+20:24:13.714 [main] INFO  testBase.BaseClass - Validating title after login
+20:24:14.721 [main] INFO  testBase.BaseClass - Closing browser
+20:37:00.666 [main] INFO  testBase.BaseClass - Launching browser
+20:38:19.447 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+20:38:21.415 [main] INFO  testBase.BaseClass - Clicking on Login link
+20:38:22.585 [main] INFO  testBase.BaseClass - Entering email address
+20:38:23.283 [main] INFO  testBase.BaseClass - Entering password
+20:38:23.449 [main] INFO  testBase.BaseClass - Clicking on login button
+20:38:24.334 [main] INFO  testBase.BaseClass - Validating title after login
+20:38:26.014 [main] INFO  testBase.BaseClass - Closing browser
+15:41:59.651 [main] INFO  testBase.BaseClass - Launching browser
+15:43:50.767 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+15:43:54.990 [main] INFO  testBase.BaseClass - Clicking on Login link
+15:43:56.554 [main] INFO  testBase.BaseClass - Entering email address
+15:43:58.202 [main] INFO  testBase.BaseClass - Entering password
+15:43:58.868 [main] INFO  testBase.BaseClass - Clicking on login button
+15:43:59.624 [main] INFO  testBase.BaseClass - Validating title after login
+15:44:03.545 [main] INFO  testBase.BaseClass - Closing browser
+15:46:33.108 [main] INFO  testBase.BaseClass - Launching browser
+15:46:55.170 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+15:46:56.789 [main] INFO  testBase.BaseClass - New User registration
+15:46:56.790 [main] INFO  testBase.BaseClass - Entering user details
+15:46:57.759 [main] INFO  testBase.BaseClass - Clicking on Continue button
+15:46:58.200 [main] INFO  testBase.BaseClass - Validating New user Registration
+15:47:09.011 [main] INFO  testBase.BaseClass - Closing browser
+15:47:09.303 [main] INFO  testBase.BaseClass - Launching browser
+15:47:18.592 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+15:47:18.714 [main] INFO  testBase.BaseClass - Clicking on Login link
+15:47:19.840 [main] INFO  testBase.BaseClass - Entering email address
+15:47:20.146 [main] INFO  testBase.BaseClass - Entering password
+15:47:20.274 [main] INFO  testBase.BaseClass - Clicking on login button
+15:47:20.394 [main] INFO  testBase.BaseClass - Validating title after login
+15:47:21.468 [main] INFO  testBase.BaseClass - Closing browser
+15:51:49.021 [main] INFO  testBase.BaseClass - Launching browser
+15:52:28.528 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+15:52:36.308 [main] INFO  testBase.BaseClass - New User registration
+15:52:36.309 [main] INFO  testBase.BaseClass - Entering user details
+15:52:38.829 [main] INFO  testBase.BaseClass - Clicking on Continue button
+15:52:39.382 [main] INFO  testBase.BaseClass - Validating New user Registration
+15:52:51.881 [main] INFO  testBase.BaseClass - Closing browser
+15:52:52.634 [main] INFO  testBase.BaseClass - Launching browser
+15:53:27.992 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+15:53:28.130 [main] INFO  testBase.BaseClass - Clicking on Login link
+15:53:29.385 [main] INFO  testBase.BaseClass - Entering email address
+15:53:29.561 [main] INFO  testBase.BaseClass - Entering password
+15:53:29.695 [main] INFO  testBase.BaseClass - Clicking on login button
+15:53:29.804 [main] INFO  testBase.BaseClass - Validating title after login
+15:53:58.271 [main] INFO  testBase.BaseClass - Closing browser
+15:54:57.407 [main] INFO  testBase.BaseClass - Launching browser
+15:55:39.256 [main] INFO  testBase.BaseClass - *******Starting Account_Registration Test******
+15:55:40.859 [main] INFO  testBase.BaseClass - New User registration
+15:55:40.860 [main] INFO  testBase.BaseClass - Entering user details
+15:55:42.030 [main] INFO  testBase.BaseClass - Clicking on Continue button
+15:55:42.253 [main] INFO  testBase.BaseClass - Validating New user Registration
+15:55:54.260 [main] INFO  testBase.BaseClass - Closing browser
+15:55:56.870 [main] INFO  testBase.BaseClass - Launching browser
+15:56:16.121 [main] INFO  testBase.BaseClass - *****Starting loginTest*******
+15:56:16.460 [main] INFO  testBase.BaseClass - Clicking on Login link
+15:56:17.257 [main] INFO  testBase.BaseClass - Entering email address
+15:56:17.463 [main] INFO  testBase.BaseClass - Entering password
+15:56:17.582 [main] INFO  testBase.BaseClass - Clicking on login button
+15:56:17.696 [main] INFO  testBase.BaseClass - Validating title after login
+15:56:18.650 [main] INFO  testBase.BaseClass - Closing browser
